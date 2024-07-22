@@ -38,7 +38,7 @@ Para reproducir la aplicación se debe contar con:
 #### Inicio de la aplicación
 ##### Paso 1
 En Visual Studio Code se abre el folder de la aplicación "Finanzas-App".
-![Paso1](Images/Paso1.png)
+<img src="Images/Paso1.png" alt="Paso1" width="300" />
 ![Paso2](Images/Paso2.png)
 ##### Paso 2
 Se abre un terminal seleccionando "vista" o "view" y luego seleccionando "terminal".
