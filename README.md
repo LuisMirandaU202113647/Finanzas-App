@@ -36,3 +36,19 @@ Para reproducir la aplicación se debe contar con:
 - Tener configurado un navegador predeterminado
 ![Prerequisitos](Images/Prerequisitos.png)
 #### Inicio de la aplicación
+##### Paso 1
+En Visual Studio Code se abre el folder de la aplicación "Finanzas-App".
+![Paso1](Images/Paso1.png)
+![Paso2](Images/Paso2.png)
+##### Paso 2
+Se abre un terminal seleccionando "vista" o "view" y luego seleccionando "terminal".
+![Paso2.1](Images/Paso2.1.png)
+![Paso3](Images/Paso3.png)
+##### Paso 3 
+En el terminal se escribe cd backend y se presiona enter para dirigirnos a la carpeta del backend. Luego, para instalar las dependencias necesarias se escribe "npm install -g nodemon".
+![Paso4](Images/Paso4.png)
+##### Paso 4
+Luego se escribe "nodemon server.js" para iniciar el servidor local.
+
+###### Nota
+Si aparece un error iniciamos poweshell en modo administrador, escribimos "Set-ExecutionPolicy" RemoteSigned, presionamos enter, seleccionamos la opción "
