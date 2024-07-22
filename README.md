@@ -49,6 +49,6 @@ En el terminal se escribe cd backend y se presiona enter para dirigirnos a la ca
 ![Paso4](Images/Paso4.png)
 ##### Paso 4
 Luego se escribe "nodemon server.js" para iniciar el servidor local.
-
+![Paso5](Images/Paso5.png)
 ###### Nota
 Si aparece un error iniciamos poweshell en modo administrador, escribimos "Set-ExecutionPolicy" RemoteSigned, presionamos enter, seleccionamos la opción "
