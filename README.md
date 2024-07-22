@@ -32,6 +32,7 @@ Al seleccionar una cuenta desde el menú principal se podrá calcular el valor d
 Para reproducir la aplicación se debe contar con:
 - MongoDB instalado
 - Node.JS instalado
-- Visual Code
+- Visual Studio Code
 - Tener configurado un navegador predeterminado
+![Prerequisitos](Images/Prerequisitos.png)
 #### Inicio de la aplicación
