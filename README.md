@@ -74,7 +74,7 @@ Nos dirigimos al apartado de extensiones y buscamos "Live Server" y lo instalamo
 ##### Paso 6
 Vamos al archivo html "Login" hacemos click derecho en el código y click en "Open with Live Server". Con esto se abrirá una nueva pestaña en nuestro navegador predeterminado con la aplicación.
 </br>
-![Paso8](Images/Paso8.png)
+![Paso9](Images/Paso9.png)
 </br>
 ## Aprendizaje
 Gracias a este proyecto aprendí:
