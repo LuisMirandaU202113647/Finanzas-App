@@ -60,4 +60,25 @@ Luego se escribe "nodemon server.js" para iniciar el servidor local.
 ![Paso5](Images/Paso5.png)
 </br>
 ###### Nota
-Si aparece un error iniciamos poweshell en modo administrador, escribimos "Set-ExecutionPolicy" RemoteSigned, presionamos enter, seleccionamos la opción "
+Si aparece un error iniciamos poweshell en modo administrador, escribimos "Set-ExecutionPolicy" RemoteSigned, presionamos enter, seleccionamos la opción "Yes to All" y presionamos enter. A continuación regresamos a Visual Studio Code y ejecutamos el comando "nodemon server.js"
+</br>
+![Paso6](Images/Paso6.png)
+</br>
+![Paso7](Images/Paso7.png)
+</br>
+##### Paso 5
+Nos dirigimos al apartado de extensiones y buscamos "Live Server" y lo instalamos.
+</br>
+![Paso8](Images/Paso8.png)
+</br>
+##### Paso 6
+Vamos al archivo html "Login" hacemos click derecho en el código y click en "Open with Live Server". Con esto se abrirá una nueva pestaña en nuestro navegador predeterminado con la aplicación.
+</br>
+![Paso8](Images/Paso8.png)
+</br>
+## Aprendizaje
+Gracias a este proyecto aprendí:
+- A crear un backend en Node.js y gestionarlo con la herramienta Nodemon.
+- A realizar fetch requests con javascript.
+- A enlazar instancias de bases de datos MongoDB.
+- A utilizar animaciones simples.
